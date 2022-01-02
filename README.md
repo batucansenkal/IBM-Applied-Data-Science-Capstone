@@ -1,6 +1,6 @@
 # IBM Data Science Capstone
 
-This is the final project of the IBM Data Science professional certificate.
+This is the final project of the IBM Data Science Professional Certificate Program.
 
 ## Purpose
 
