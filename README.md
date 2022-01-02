@@ -14,8 +14,8 @@ much of the savings is due to the fact that SpaceX can reuse the first stage.
 ## Contents
 
 1. Data Collection Using An API: jupyter-labs-spacex-data-collection-api.ipynb
-2. Data Collection With Web Scraping: jupyter-labs-webscraping.ipynb
-3. Exploratory Data Analysis With Pandas: labs-jupyter-spacex-data-wrangling.ipynb
+2. Data Collection API with Webscraping: jupyter-labs-webscraping.ipynb
+3. Exploratory Data Analysis with Pandas: labs-jupyter-spacex-data-wrangling.ipynb
 4. Exploratory Data Analysis Using SQL: jupyter-labs-eda-sql-coursera-sqlite.ipynb
 5. Data Visualization: jupyter-labs-eda-dataviz.ipynb
 6. Visualization Of Launch Sites With Folium: lab-jupyter-launch-site-location.ipynb
